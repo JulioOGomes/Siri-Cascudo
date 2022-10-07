@@ -1,5 +1,6 @@
 /*estilizando o corpo da pagina*/
 body{
+    background-color: rgb(0, 0, 0);
     margin: 0;
     padding: 0;
     border: 0;
@@ -57,22 +58,26 @@ ul{
 }
 /*Estilização da área "sobre"*/
 .titulo-principal{
+    color: #ffffff;
     text-align: center;
     font-size: 2em; /* dobro da fonte padrão*/
     margin: 0 0 1em;
     clear: left;
 }
 .principal{
+    color: #ffffff;
     width: 940px;
     margin: 0 auto;
     padding: 3em 0;
     text-align: justify;
 }
 .principal strong{
+    color: #ffffff;
     font-weight: bold;
     text-align: center;
 }
 .principal em{
+    color: #ffffff;
     font-style: italic;
 }
 .Hamburguer {
